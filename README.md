@@ -1,1 +1,1 @@
-Exam python web basics 06.2021
+Exam SoftUni python web basics 06.2021
